@@ -1,0 +1,39 @@
+body, html{
+    
+    background-color: #ab6c82;
+}
+
+#datos_personas{
+  
+  padding: 10px;
+  
+
+}
+
+#datos_personas .casillas{
+    display: flex;
+    padding: 10px;
+    margin: 10px;
+
+}
+
+#datos_personas .casilla label{
+    color:  ;
+    font-weight: 200;
+    size: 20px;
+
+}
+
+#datos_personas .casilla input{
+    
+    font-size: 16px;
+
+}
+
+#datos_personas input[type="submit"]{
+    background-color: beige;
+    font-size: 16px;
+    border: 10px;
+
+
+}
